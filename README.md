@@ -1,2 +1,4 @@
 # Data Engineering (AWS)
-AWS tools exploring via massive data projects
+This repository is for exploring AWS tools(Spark, MapReduce, Hive, Pig)through finishing several massive data projects
+
+
