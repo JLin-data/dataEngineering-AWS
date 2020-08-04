@@ -6,5 +6,7 @@ This repository is for exploring AWS tools and cloud infrastructure(including Sp
 
 
 ## Projects
-[Predicting the most popular review in Reddit](https://github.com/JJJJJingL/ANLY502MassiveData-reddit-comments-id)
+* [Predicting the most popular review in Reddit](https://github.com/JJJJJingL/ANLY502MassiveData-reddit-comments-id)
+
+
 
